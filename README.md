@@ -24,7 +24,7 @@
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulosilva3&show_icons=true&locale=en&layout=compact" alt="romulosilva3" width="285" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=romulosilva3&show_icons=true&locale=en" alt="romulosilva3" width="285" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=romulosilva3&" alt="romulosilva3" width="285" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romulosilva3&show_icons=true&locale=en&layout=compact" alt="romulosilva3" width="280" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=romulosilva3&show_icons=true&locale=en" alt="romulosilva3" width="280" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=romulosilva3&" alt="romulosilva3" width="280" height="150" />
 
 </p>
 
